@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as iOS Developer at [@adessoTurkey](https://github.com/adessoTurkey)
+- 🔭 I’m currently working as iOS Developer [@adessoTurkey](https://github.com/adessoTurkey)
 - 📫 How to reach me: ozturkmf@outlook.com
 
 </a>
