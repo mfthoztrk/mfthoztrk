@@ -5,7 +5,7 @@
 
 </a>
 <a href="https://www.linkedin.com/in/ozturkmf/">
-  <img align="left" alt="Fatih Öztürk's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Fatih Öztürk's LinkedIn" width="220px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!--
