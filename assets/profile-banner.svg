@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fatih Öztürk — iOS Developer</title>
+  <desc id="desc">A dark navy profile banner with turquoise accents and a stylized phone.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#152b39"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#b9e5ef" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1035" cy="176" r="145" fill="#2dd4bf" fill-opacity="0.04"/>
+  <circle cx="1035" cy="176" r="112" fill="none" stroke="#67e8f9" stroke-opacity="0.13"/>
+  <circle cx="1035" cy="176" r="158" fill="none" stroke="#67e8f9" stroke-opacity="0.06"/>
+  <rect x="64" y="64" width="38" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="101" fill="#83c9d3" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+  <text x="60" y="181" fill="#f2f7fb" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Fatih Öztürk</text>
+  <text x="64" y="228" fill="#b1c4d4" font-family="Arial, Helvetica, sans-serif" font-size="24">iOS Developer</text>
+  <rect x="64" y="277" width="8" height="8" rx="4" fill="#2dd4bf"/>
+  <text x="84" y="288" fill="#83c9d3" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">mfoworks.com</text>
+  <g transform="rotate(9 1010 176)">
+    <rect x="947" y="57" width="126" height="240" rx="27" fill="#0b1523" stroke="#51828d" stroke-width="2"/>
+    <rect x="956" y="67" width="108" height="220" rx="20" fill="#132b38"/>
+    <rect x="984" y="75" width="52" height="14" rx="7" fill="#0b1523"/>
+    <rect x="976" y="130" width="68" height="68" rx="17" fill="url(#accent)"/>
+    <text x="1010" y="173" text-anchor="middle" fill="#0b2532" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">iOS</text>
+    <rect x="977" y="216" width="66" height="5" rx="2.5" fill="#5d8793"/>
+    <rect x="989" y="231" width="42" height="5" rx="2.5" fill="#355c69"/>
+    <rect x="991" y="273" width="38" height="3" rx="1.5" fill="#739ca6"/>
+  </g>
+</svg>
